@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bang</string>
+    <string name="start">Start</string>
+    <string name="sheriff">Sheriff</string>
+    <string name="vice">Vice</string>
+    <string name="bandit">Bandit</string>
+    <string name="choose_your_character">Choose your character!</string>
+    <string name="title_activity_choose">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_your_fighter_4">Choose your fighter!!</string>
+    <string name="choose_your_role">Choose your role!</string>
+    <string name="boris">Ordenary Moscow citizen Boris: he really loves beer, he gets twice amount of health by drinking one!</string>
+    <string name="ekler">Popular professor Peter: a pretty correct man, many people likes him, so he always start with SIX cards!!</string>
+    <string name="gyurcsany">Master destroyer: he loves the destruction, and the big booms! His dinamytes causes twice damage!</string>
+    <string name="harambe">Wild beast Harambe: by a big misunderstanding it gotten many bangs, so it had to harden! It has 6 health point!</string>
+    <string name="harold">Engineer student Harold: he loves learning! He draws two cards at the start of his turn!</string>
+    <string name="ricardo">Mysteriously smiling Ricardo: He has seriously bombastic body, that counts as a weapon! His dinamytes causes twice damage!</string>
+    <string name="tibiatya">Funny drunk priest Tibor: long time ago he was very funny, now he just drinks. He starts with 3 beer in his hand!</string>
+    <string name="normie">Regular citizen: random guy Normie. Doesnt have any special abilities</string>
+    <string name="cards">Cards:</string>
+    <string name="hp">hp:</string>
+    <string name="end_turn">End turn</string>
+
+
+</resources>
