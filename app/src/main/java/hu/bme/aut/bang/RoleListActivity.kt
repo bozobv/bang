@@ -17,7 +17,6 @@ class RoleListActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_role_list)
 
-        //amelyik gomra rányomunk, aszerint adja tovább a következő activitynek a szerepet
         btnSheriff.setOnClickListener{
 
             val intent = Intent(this, ChooseActivity::class.java)
